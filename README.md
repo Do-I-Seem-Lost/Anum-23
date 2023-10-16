@@ -1,10 +1,9 @@
 # Anum-23
-New Project
+Autumn Minder
 
 What is is about autumn that makes focus more difficult?
-I personally have so much trouble staying on task.
-
-I am looking at another small focus project
-I need to give this more thought.
-I'm making it up as I go.
-python
+The changes in the air are distracting.
+What if there was an app to keep you on task?
+Tick, tock.
+Python is a reasonable choice.
+Now for the coding...
